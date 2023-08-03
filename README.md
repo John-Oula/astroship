@@ -1,14 +1,14 @@
-# Astroship - Astro Starter Template 🛸
+# Comicly -ComiclyStarter Template 🛸
 
-Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS.
+Comicly is a starter template for startups, marketing websites, landing pages & blog. Built withComicly& TailwindCSS.
 
-This Free Template is sponsored by [Web3Templates](https://web3templates.com)
+This Free Template is sponsored by [antratechstudios](https://antratechstudios.com)
 
 ## Live Demo
 
-### [https://astroship.web3templates.com/](https://astroship.web3templates.com/)
+### [https://Comicly.antratechstudios.com/](https://Comicly.antratechstudios.com/)
 
-### [Download Astroship Template](https://web3templates.com/templates/astroship-starter-website-template-for-astro)
+### [Download Comicly Template](https://antratechstudios.com/templates/Comicly-starter-website-template-for-astro)
 
 ## Deploy this template
 
@@ -16,11 +16,11 @@ You can instantly clone this to your GitHub and deploy the site by clicking the 
 
 Click here to deploy on Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsurjithctly%2Fastroship&project-name=astroship&repository-name=astroship&demo-title=Astroship%20-%20Astro%20Starter%20Template&demo-description=Astroship%20is%20a%20starter%20template%20for%20startups%2C%20marketing%20websites%20%26%20landing%20pages.%20Built%20with%20Astro%2C%20TailwindCSS&demo-url=https%3A%2F%2Fastroship.web3templates.com%2F&demo-image=https%3A%2F%2Fuser-images.githubusercontent.com%2F1884712%2F200831799-10ef2456-a02e-4068-b580-4b5326f0b33b.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsurjithctly%2FComicly&project-name=Comicly&repository-name=Comicly&demo-title=Comicly%20-%20Astro%20Starter%20Template&demo-description=Comicly%20is%20a%20starter%20template%20for%20startups%2C%20marketing%20websites%20%26%20landing%20pages.%20Built%20with%20Astro%2C%20TailwindCSS&demo-url=https%3A%2F%2FComicly.antratechstudios.com%2F&demo-image=https%3A%2F%2Fuser-images.githubusercontent.com%2F1884712%2F200831799-10ef2456-a02e-4068-b580-4b5326f0b33b.png)
 
 Click here to deploy on Netlify:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/astroship)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/Comicly)
 
 ## Preview
 
@@ -28,21 +28,21 @@ Click here to deploy on Netlify:
 
 ### Pagespeed Score
 
-[![pagespeed](https://user-images.githubusercontent.com/1884712/210250214-7aa98167-7993-4b90-8138-326b8fa0c223.png)](https://pagespeed.web.dev/report?url=https%3A%2F%2Fastroship.web3templates.com%2F)
+[![pagespeed](https://user-images.githubusercontent.com/1884712/210250214-7aa98167-7993-4b90-8138-326b8fa0c223.png)](https://pagespeed.web.dev/report?url=https%3A%2F%2FComicly.antratechstudios.com%2F)
 
 
 ## Installation
 
-If you are reading this on github, you can click on the "Use this template" button above to create a new repository from astroship to your account. Then you can do a `git clone` to clone it to your local system.
+If you are reading this on github, you can click on the "Use this template" button above to create a new repository from Comicly to your account. Then you can do a `git clone` to clone it to your local system.
 
 Alternatively, you can clone the project directly from this repo to your local system.
 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/surjithctly/astroship.git myProjectName
+git clone https://github.com/surjithctly/Comicly.git myProjectName
 # or
-git clone https://github.com/surjithctly/astroship.git .
+git clone https://github.com/surjithctly/Comicly.git .
 ```
 
 The `.` will clone it to the current directory so make sure you are inside your project folder first.
@@ -92,7 +92,7 @@ pnpm astro --help
 
 ## Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside of yourComiclyproject, you'll see the following folders and files:
 
 ```
 /
@@ -122,6 +122,6 @@ TailwindCSS is already configured in this repo, so you can start using it withou
 
 ## 👀 Want to learn more?
 
-Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
+Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://antratechstudios.com/discord).
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
